@@ -1,4 +1,4 @@
-## Hi there 👋 I am Dhiti Varma.
+## Hi there!! 👋 I'm Dhiti Varma.
 
 <!--
 
