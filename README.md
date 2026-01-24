@@ -1,5 +1,7 @@
 ## Hi there!! 👋 I'm Dhiti Varma.
 
+🚀 Exploring 🧠 Focused 🎯
+
 <!--
 
 Here are some ideas to get you started:
