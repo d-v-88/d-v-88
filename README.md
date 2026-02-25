@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=d-v-88&hide=contribs,issues&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=d-v-88&&show_icons=true&count_private=true" /></p>
