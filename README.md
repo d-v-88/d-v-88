@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=d-v-88&hide=contribs,issues&show_icons=true" /></p>
+<p align="center">
+  <img src="https://readme-stars.vercel.app/api?username=d-v-88&hide=contribs,issues&show_icons=true" alt="GitHub Stats" />
+</p>
