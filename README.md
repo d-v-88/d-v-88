@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <p>&nbsp;<img align="center" src="https://readme-stars.vercel.app/api?username=d-v-88&&show_icons=true&count_private=true" /></p>
+
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/Dhiti  Varma
+- Instagram: https://instagram.com/dhiti_varma
