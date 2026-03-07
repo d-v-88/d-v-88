@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/dhiti-varma
+- LinkedIn: https://linkedin.com/in/dhiti-varma-b85697362/
 - Instagram: https://instagram.com/dhiti_varma
