@@ -1,6 +1,8 @@
-## Hi there!! 👋 I'm Dhiti Varma.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi there!! Nice to see you.</h1>
+<h1 align="center">I'm I'm Dhiti Varma 😀</h1>
+<h4 align="center">I'm a Software Engineer | AI & Machine Learning Enthusiast</h4>
 
-🚀 Exploring 🧠 Focused 🎯
+<h4 align="center>🚀 Exploring 🧠 Focused 🎯</h4>
 
 <!--
 
