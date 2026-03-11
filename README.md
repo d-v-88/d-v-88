@@ -5,7 +5,7 @@
 <h4 align="center>🚀 Exploring 🧠 Focused 🎯</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-v-88&label=Profile%20views&color=0e75b6&style=flat" alt="d-v-88" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-v-88" alt="d-v-88" /></a> </p> -->
 
