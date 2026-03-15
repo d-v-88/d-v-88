@@ -1,4 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi there!! Nice to see you.</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="About Me Banner" width="600"/>
+</p>
+
 <h1 align="center">I'm Dhiti Varma 😀</h1>
 <h4 align="center">I'm a Software Engineer | AI & Machine Learning Enthusiast</h4>
 
