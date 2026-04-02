@@ -5,14 +5,12 @@
 </p>
 
 <h1 align="center">I'm Dhiti Varma 😀</h1>
-<h4 align="center">I'm a Software Engineer | AI & Machine Learning Enthusiast</h4>
+<h4 align="center">Curious by nature, driven by technology, and passionate about creating systems that can think, learn, and evolve!!</h4>
 
 <h4 align="center>🚀 Exploring 🧠 Focused 🎯</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-v-88&label=Profile%20views&color=0e75b6&style=flat" alt="d-v-88" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-v-88" alt="d-v-88" /></a> </p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-v-88&show_icons=true&locale=en&layout=compact" alt="d-v-88" /></p>
