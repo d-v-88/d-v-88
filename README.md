@@ -13,11 +13,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-v-88&label=Profile%20views&color=0e75b6&style=flat" alt="d-v-88" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-v-88&show_icons=true&locale=en&layout=compact" alt="d-v-88" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-v-88&show_icons=true&locale=en&layout=compact" alt="d-v-88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-v-88&show_icons=true&locale=en" alt="d-v-88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-v-88&" alt="d-v-88" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-v-88&" alt="d-v-88" /></p> -->
 
 ## Connect With Me
 
