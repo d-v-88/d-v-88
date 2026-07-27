@@ -22,4 +22,6 @@
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/dhiti-varma-b85697362/
+- Hashnode: https://hashnode.com/@DhitiVarma
+- Portfolio: https://dhiti-io.vercel.app/
 - Instagram: https://instagram.com/dhiti_varma
